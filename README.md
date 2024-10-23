@@ -1,4 +1,3 @@
-# Basic instructions
 # Project Setup Instructions
 
 Follow these steps to set up the project environment and install the necessary dependencies.
