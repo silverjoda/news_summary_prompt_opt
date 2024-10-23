@@ -26,6 +26,14 @@ Follow these steps to set up the project environment and install the necessary d
     pip install -r requirements.txt
     ```
 
+## API Keys
+
+1. Create a `.env` file in the project root directory.
+2. Add your OpenAI API key to the `.env` file:
+    ```sh
+    OPENAI_API_KEY="your_openai_api_key_here"
+    ```
+
 ## Configuration
 
 - Use the `config.json` file to configure training parameters and prompts
