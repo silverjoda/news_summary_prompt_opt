@@ -1,0 +1,10 @@
+{
+  "split_ratio": 0.8,
+  "forward_engine" : "gpt-4o",
+  "backward_engine": "gpt-4o",
+  "evaluation_instruction" : "You should evaluate the summaries to this news article in terms of syntax, style and personality. It should be as they were written by the same person.",
+  "initial_system_prompt" : "Summarize the following article: \n",
+  "system_prompt_role_description" : "Instruction and style how to summarize the news article. Should be at most 50 words.",
+  "news_string_role_description" : "String containing company monthly news that we want to summarize",
+  "answer_role_description" : "A summary of the news article by the director of the company"
+}
