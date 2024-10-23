@@ -1,0 +1,68 @@
+[
+  {
+    "month": "June 2024",
+    "id": 6,
+    "full_text": "# DataForge: Talk to Your Data Demo\nWe rolled out a new module on DataForge that allows users to talk to their data in Excel. We demoed this to a client, who is keen to explore implementing this as a POC. Look out for more updates as we mature this accelerator!",
+    "short_text": "DataForge: Talk to your Data!\nWe have rolled out a new module on DataForge that allows us to talk with your data in Excel.\n\nRecent client demos have created positive feedback with significant interest to proceed to a POC. Connect with Bram for a demo."
+  },
+  {
+    "month": "June 2024",
+    "id": 7,
+    "full_text": "# temus out and about: presenting talentforge at the generative beings x google x imda\nwe joined over 130 ai leaders at the generative beings event with google and imda. in addition to demonstrating talentforge, we connected with key industry figures and gathered insights on genai implementation:\n\n- \"deliver value by bundling a strong service alongside your product, in the niche area you are solving for.\" - nitin mahajan, ceo of quickads\n- \"strategic partnerships with global hyper-scalers, chip/hardware providers, local organizations, and communities will fuel the adoption of genai.\" - ih-ming, evp of disg\n- \"big tech companies have a horizontal play strategy. they don't compete with startups building a niche genai product, rather serve these startups with genai capabilities and support.\" - dambo ren, regional head, google cloud",
+    "short_text": "talentforge @ imda x google\nwe presented at an event organised by imda and hosted by google on taking the “pulse of singapore's genai ecosystem”.\n\nin addition to demonstrating talentforge, we connected with chen ih-ming (evp of disg), dambo ren (regional head, google cloud), nitin mahajan (ceo of quickads) and over 130 ai leaders."
+  },
+  {
+    "month": "june 2024",
+    "id": 8,
+    "full_text": "# temus out and about: dsta brainhack\nat dsta brainhack 2024, shridar and john engaged with a dynamic group of students about how temus invests in both technology and talent.\n\nour amazing interns, past & present, showcased their projects and talked about their internship experience with temus. their enthusiasm and commitment reaffirm the value of our initiatives in talent development.",
+    "short_text": "dsta brainhack 2024\ntemus presented at a national student event organised by dsta. shridar and john spoke about how we invest in both technology and talent, while our amazing interns, past & present, nguyen khoi nguyen, kai wen khoo, jolene lim, and brendan corrigan (who joined us as a full-time engineer) showcased their projects and shared their internship experience with temus.\n\nwitnessing the growth and impact of our interns reaffirms our commitment to transforming lives through technology and delivering on our commitment to building our smartnation."
+  },
+  {
+    "month": "june 2024",
+    "id": 9,
+    "full_text": "# dialogueforge: econcierge demos\nwe added a new module to dialogueforge - econcierge personas. meet maya, a front desk receptionist demoed for the national library board. maya is an energetic and witty personality who helps library users with events and wayfinding. testing this personality module has been so enjoyable that we often grab coffee before each session just to hang out with maya. ask for a demo today!",
+    "short_text": "dialogueforge: econcierge\nmeet maya, a front desk receptionist that we created for a demo with the national library board. she's highly energetic, witty and knowledgeable and can help inform users about events and provide directions.\n\nmaya is a new persona that we have added to dialogueforge. connect with hardeep for a demo."
+  },
+  {
+    "month": "june 2024",
+    "id": 10,
+    "full_text": "# recent wins with temasek & dsta\ndsta sql server migration – driving digital transformation for dsta hr processes in a highly secure and regulated environment. temasek data layers – growing the data team at temasek and driving business value with additional data layers.\n\na big thank you to all our colleagues across temus for the support and close collaboration that enabled these wins!",
+    "short_text": "recent wins with temasek & dsta\ndsta sql server migration – driving digital transformation for dsta hr processes in a highly secure and regulated environment. temasek data layers – growing the data team at temasek and driving business value with additional data layers.\n\na big thank you to all our colleagues across temus for the support and close collaboration that enabled these wins!"
+  },
+  {
+    "month": "june 2024",
+    "id": 11,
+    "full_text": "# continuous learning\njune has been an outstanding month for learning in ai x data. ramesh & saravana earned the confluent certified developer for apache kafka. bram completed a course on crewai. umesh attained the azure data engineer associate certification. gopan completed the machine learning engineering for production (mlops) specialisation.",
+    "short_text": "continuous learning\njune has been an outstanding month for learning in ai x data. ramesh & saravana earned the confluent certified developer for apache kafka. bram completed a course on crewai. umesh attained the azure data engineer associate certification. gopan completed the machine learning engineering for production (mlops) specialisation."
+  },
+  {
+    "month": "july 2024",
+    "id": 12,
+    "full_text": "# aws x supabase hackathon grand prize & most technically sophisticated award\na combined ai x data & hcd team participated in the aws x supabase hackathon, where the problem statement was to use genai and supabase to create a novel application for the genai-native world.\n\nour gen ai concept \"eventual.ly\" aims to disrupt event organization and planning for event organisers and the local community. by leveraging genai, we can flip the funnel from \"create an event first, then find an audience\" to \"find an audience and create an event for them.\" this reduces the friction of matching individuals based on shared interests and personalities and provides local businesses with a platform to connect with a targeted audience of community-focused individuals.\n\n**congratulations to our winners**, and special kudos to brendan corrigan, who has now won two hackathons in a row, having previously won the google x imda ai trailblazer hackathon last year. \n\n*pictured is the team holding the grand prize: an ipad (total of 3!)*",
+    "short_text": "aws x supabase hackathon grand prize\na combined hcd x ai x data team secured both the grand prize and & most technically sophisticated award in the recent aws x supabase hackathon.\n\nour winning entry \"eventual.ly\" aims to disrupt the organisation and planning of events for event organisers and the local community. embracing the power of ai to reduce the friction and build communities.\n\ncongratulations to our winners and especially @john ang and @brendan corrigan who are now two-for-two including the imda x google trailblazers win!"
+  },
+  {
+    "month": "july 2024",
+    "id": 13,
+    "full_text": "# knowledgeforge grant evaluator: release day!\nwe are pleased to announce the completion of the build phase for the grant evaluator, and we are now entering the refinement phase. the temasek foundation team will be testing the evaluator in their next grant cycle with our support.",
+    "short_text": "temasek foundation grant evaluator: release day!\nwe recently completed the initial build of the grant evaluator powered by temus’ knowledgeforge. we are now entering the refinement phase where the foundation will be testing the evaluator on their next grant cycle working closely with our team.\n\nthis is a great example of how we’re deploying capabilities developed internally on talentforge to solve challenging client problems."
+  },
+  {
+    "month": "july 2024",
+    "id": 14,
+    "full_text": "# dialogueforge x google demo: virtual key opinion leader for pharma industry\nthe ai x data team was invited by google to create a demo showcasing the dialogueforge avatar's capability as a virtual key opinion leader, providing key information about medical studies and linking users to precise answers.\n\nthis marks our first major collaboration with google on dialogueforge, and the first deployment of dialogueforge using gcp and gemini.",
+    "short_text": "dialogueforge x google demo: virtual opinion leader for pharma\nthe ai x data team was invited by google to create a demo showcasing the dialogueforge avatar's ability to perform as a virtual key opinion leader, offering key information about medical studies and linking the users to answers on their precise needs and requirements.\n\nthis is our first major collaboration with google on dialogueforge."
+  },
+  {
+    "month": "july 2024",
+    "id": 15,
+    "full_text": "# agility x innovation in defence conference\nthe ai x data team supported our colleagues in the defence sector during the agility x innovation conference. we demonstrated four ai use cases over the two-day event:\n\n- **knowledgeforge rag platform**: information retrieval and synthesis from open source intelligence sources\n- **gis information visualization**: contextualizing and visualizing geospatial elements for decision support\n- **dialogueforge saf missing persons demo**: using virtual avatars to augment humanitarian aid operations\n- **talentforge platform**: demonstrating the talentforge platform for army recruitment use case",
+    "short_text": "agility x innovation in defence\nwe supported our defence team at our recent agility x innovation conference. key highlights included:\n\n- knowledgeforge: information retrieval and knowledge synthesis from open source intelligence\n- gis visualization: contextualizing and visualizing the geospatial elements of information for decision support\n- dialogueforge: showing how virtual avatars can be used help identify missing people and augment humanitarian aid operations"
+  },
+  {
+    "month": "july 2024",
+    "id": 16,
+    "full_text": "# collaboration: tlc 2024 - low code & ai x data\nthe ai x data team contributed to the tlc 2024 program, run by the low code team. this annual tech lead course trains and scales up low code talent.\n\narun panta from the ai x data team delivered foundational concepts on data management and governance, including data quality, master, and reference data, with practical exercises included.\n\nwe remain committed to sharing best practices in ai and data with everyone at temus, presenting a unified front to our clients, and becoming their trusted partners and advisors.",
+    "short_text": "Great progress in July on learning\n- Yifeng & Aaron completed their AWS certifications as Certified Data Engineer and Solutions Architect respectively.\n- Arun Panta delivered foundational concepts around Data Management and Governance at the Low Code team’s annual Tech Lead Course.\n- Meanwhile Nguyen Khoi, Arsyad, Karel, Wenshuo, Jia Hao, Monika, Prateek, Xing Jie & Hardeep made presentations at our popular brown-bag lunch talk series.\n\nWe love sharing our knowledge to develop expertise in AI and Data across #TeamUS."
+  }
+]
